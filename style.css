@@ -50,7 +50,8 @@
 }
 .content-selected img{
     background-size: cover;
-    height: 300px;
+    height: 350px;
+    transform:scale(1.5);
     transform-style: preserve-3d;
     animation: rotate 3s linear infinite;
     border-radius: 10px;
